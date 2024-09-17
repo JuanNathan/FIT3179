@@ -1,4 +1,4 @@
-Country,Land Area (km^2),Number of Natural Disasters 2010-2021,Average Population,Risk,Risk Category
+Country,Land Area (km^2),Number of Natural Disasters 2010-2021,Average Population,Risk Index,Risk Category
 Indonesia,"1,905,000",147,261900000,81.9127764826292,Very High
 Malaysia,330803,15,31530000,7.06196890266702,Medium
 Thailand,513120,35,70610000,17.2236538554552,High
