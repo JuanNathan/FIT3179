@@ -29,7 +29,10 @@
     "color": {
       "field": "Risk Index",
       "type": "quantitative",
-      "scale": {"type": "log"}
+      "scale": {
+          "type": "log",
+          "range": ["#FFEDA0", "#FEB24C", "#F03B20"]
+      }
     },
     "tooltip": [
       {"field": "properties.NAME", "type": "nominal", "title": "Country"},
